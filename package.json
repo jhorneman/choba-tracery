@@ -1,0 +1,25 @@
+{
+  "name": "choba-tracery",
+  "version": "0.0.1",
+  "description": "A Tracery plugin for Choba.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhorneman/choba-tracery.git"
+  },
+  "keywords": [
+    "interactive-fiction"
+  ],
+  "authors": [
+    "Jurie Horneman <jurie@jurie.org> (http://www.intelligent-artifice.com)"
+  ],
+  "license": "MIT",
+  "url": "https://github.com/jhorneman/choba-engine/blob/master/LICENSE",
+  "bugs": {
+    "url": "https://github.com/jhorneman/choba-engine/issues"
+  },
+  "homepage": "https://github.com/jhorneman/choba-engine",
+  "dependencies": {
+    "choba-engine": "0.0.4"
+  }
+}

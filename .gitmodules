@@ -1,0 +1,3 @@
+[submodule "tracery"]
+	path = tracery
+	url = git@github.com:jhorneman/tracery.git
